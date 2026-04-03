@@ -8,7 +8,7 @@ A simple responsive landing page built using HTML and CSS.
 - Clean layout
 
 ## Live Demo
-- I will update once it is completed
+https://sunaila-amin.github.io/Cake-licious/
 
 ## Tech Used
 - HTML
